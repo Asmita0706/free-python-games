@@ -1,0 +1,21 @@
+# Ignore log files
+*.log
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore environment files
+*.env
+
+# Ignore operating system files (macOS)
+.DS_Store
+
+# Ignore compiled files
+*.class
+
+# Ignore IDE configuration files (e.g., VS Code)
+.vscode/
+
+# Ignore build directories (e.g., for build systems)
+build/
+dist/
